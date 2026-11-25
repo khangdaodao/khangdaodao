@@ -42,23 +42,4 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=khangdaodao&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=khangdaodao&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=khangdaodao&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy-chi-ten.vercel.app/?username=khangdaodao&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 📈 Contribution Activity
-
-![Aastha's Contribution Activity](https://www.gitskins.com/api/section/heatmap?username=khangdaodao&theme=github-dark&mode=dark)
----
-[![](https://visitcount.itsvg.in/api?id=khangdaodao&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange)](https://leetcode.com/Ta8jAiAJmV/)
-
-<p align="center"><sub>khangdaodao · <a href="https://www.gitskins.com/readme-generator?template=community-light-one-vkwm">Light one</a> template by <a href="https://www.gitskins.com/creators/aastha-yadav2">@aastha-yadav2</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
