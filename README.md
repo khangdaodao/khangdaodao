@@ -1,4 +1,4 @@
-<img align="left" width="148" src="./assets/avatar-ascii.svg" alt="ASCII portrait of my GitHub avatar" />
+<img align="left" width="180" src="./assets/avatar-ascii.svg" alt="ASCII portrait of my GitHub avatar" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+World+!+%F0%9F%91%8B&center=true&width=500&height=45">
