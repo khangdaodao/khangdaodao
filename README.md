@@ -1,10 +1,12 @@
+<img align="left" width="148" src="./assets/avatar-ascii.svg" alt="ASCII portrait of my GitHub avatar" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+World+!+%F0%9F%91%8B&center=true&width=500&height=45">
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn" width="76%" />
 </p>
+<br clear="left" />
 
 
 ---
