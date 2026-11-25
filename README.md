@@ -27,48 +27,16 @@
 
 ---
 
-# 🏆 Achievements
-
-* 🥈 <em>✏️ Say this in your own words.</em>
-* 🥈 <em>✏️ Say this in your own words.</em>
-* 🏅 <em>✏️ Say this in your own words.</em>
-* 🌍 <em>✏️ Say this in your own words.</em>
-* 🚀 Saarthi National Hackathon
+---
 
 ---
 
-# 🌱 Open Source
+---
 
-* 💖 GSSoC Contributor
-* 🎯 Hacktoberfest Contributor
-* 🔗 Open Source Connect
 
 ---
 
-# 👩‍💻 IEEE
 
-* 🌸 IEEE WIE Member
-* 🎤 Tech Event Organizer
-
----
-
-# 🧠 Skills
-
-* Python, C++, Java
-* <em>✏️ The tools you reach for, in a sentence.</em>
-* <em>✏️ The tools you reach for, in a sentence.</em>
-* HTML, CSS, JavaScript
-* Git, GitHub, Canva
-
----
-
-# 🔥 Badges
-
-![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
-
----
 
 # 🌐 Connect With Me
 
@@ -77,14 +45,6 @@
 
 ---
 
-# 🎨 Fun Fact
-
-* 🎨 Painting & Sketching
-* 🏀 <em>✏️ Say this in your own words.</em>
-
----
-
-✨ <em>✏️ Say this in your own words.</em>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:you@example.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satnova_2017) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AasthaY48535740) 
@@ -100,8 +60,6 @@
 
 ![](https://github-profile-trophy-chi-ten.vercel.app/?username=khangdaodao&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 📈 Contribution Activity
 
